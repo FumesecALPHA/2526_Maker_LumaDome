@@ -22,7 +22,7 @@ Ce projet mobilise 4 axes principaux :
 
 ##  Rétroplanning Prévisionnel 
 
-[🔗 Cliquez ici pour voir le rétroplanning complet et détaillé](./02_Gestion_Projet/RetroPlanning.md)
+🔗[Cliquez ici pour voir le rétroplanning complet et détaillé](./02_Gestion_Projet/RetroPlanning.md)
 
 Ce planning s'aligne sur les séances de formation technique du semestre.
 
