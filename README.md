@@ -32,7 +32,7 @@ Ce planning s'aligne sur les séances de formation technique du semestre.
 | **29 Janv** | PCB Design | Conception de la carte électronique (ESP32 + Driver LED). |
 | **05 Fév** | Batterie (LiPo) | Dimensionnement de la batterie et intégration du BMS. |
 | **09 Fév** | Couture | Patronage et assemblage du tissu sur la structure laser. |
-| **Fév - Mars** |  Code & Dev | Développement du firmware (Bluetooth & Animations). |
+| **Fév - Mars** |  Code & Finalisations| Développement du firmware (Bluetooth & Animations) + finalisation des choses pas terminer|
 | **Avril** | Finalisation | Assemblage final, finitions et tournage vidéo. |
 
 ```mermaid
