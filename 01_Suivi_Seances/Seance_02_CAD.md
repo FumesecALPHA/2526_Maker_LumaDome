@@ -7,14 +7,14 @@
 
 ## Résumé du cours
 ### 1. Théorie CAD
-[cite_start]La Conception Assistée par Ordinateur (CAO) permet de créer, analyser et optimiser des conceptions numériques avant fabrication.
-* [cite_start]**Raster vs Vector :** Contrairement aux images matricielles (pixels), la CAO utilise des vecteurs (formes géométriques) qui sont infiniment redimensionnables sans perte de qualité.
-* [cite_start]**Choix du logiciel :** Nous utilisons **Onshape**, un outil "Cloud-based" qui permet la collaboration en temps réel et ne nécessite pas d'installation, contrairement à SolidWorks qui demande une machine performante.
+La Conception Assistée par Ordinateur (CAO) permet de créer, analyser et optimiser des conceptions numériques avant fabrication.
+* **Raster vs Vector :** Contrairement aux images matricielles (pixels), la CAO utilise des vecteurs (formes géométriques) qui sont infiniment redimensionnables sans perte de qualité.
+* **Choix du logiciel :** Nous utilisons **Onshape**, un outil "Cloud-based" qui permet la collaboration en temps réel et ne nécessite pas d'installation, contrairement à SolidWorks qui demande une machine performante.
 
 ### 2. Fonctionnalités clés d'Onshape
 Nous avons exploré les fonctions essentielles pour passer de la 2D (Sketch) à la 3D :
-* [cite_start]**Volumes :** Extrude (Extrusion), Revolve (Révolution), Loft (Lissage).
-* [cite_start]**Modifications :** Fillet (Congé), Chamfer (Chanfrein), Shell (Coque).
+* **Volumes :** Extrude (Extrusion), Revolve (Révolution), Loft (Lissage).
+* **Modifications :** Fillet (Congé), Chamfer (Chanfrein), Shell (Coque).
 * **Workflow Électronique :** Découverte de la possibilité d'exporter un PCB depuis **KiCad** vers Onshape. Cela permet de concevoir le boîtier directement autour des composants électroniques pour éviter les erreurs de dimensions.
 
 ## Travaux Pratiques : Exercices d'application
@@ -35,9 +35,9 @@ Assemblage et gestion des contraintes géométriques complexes.
 
 ### Exercice 4 & 5 : Avancé (Flange & Spring)
 *Réalisés en autonomie.*
-* [cite_start]**Flange (Bride) :** Travail sur les formes courbes et les lissages (Loft).
-* [cite_start]**Spring (Ressort) :** Utilisation de la fonction Hélice (Helix) et Balayage (Sweep).
-![Rendu Bride](../06_Documentation/Images/Exo_CAD/Exo_Spring.jpg)
+* **Flange (Bride) :** Travail sur les formes courbes et les lissages (Loft).
+* **Spring (Ressort) :** Utilisation de la fonction Hélice (Helix) et Balayage (Sweep).
+![Rendu Bride](../06_Documentation/Images/Exo_CAD/Exo_Flange.jpg)
 ![Rendu Ressort](../06_Documentation/Images/Exo_CAD/Exo_Spring.jpg)
 
 ## Avancement du Projet LumaDome
